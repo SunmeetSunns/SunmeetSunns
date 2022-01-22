@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunmeetSunns
 - 👀 I’m interested in ...Android App Development
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...6398446412
 
