@@ -1,4 +1,3 @@
-
 <!-- Banner GIF -->
 <img src="https://i.gifer.com/7VE.gif" width="100%" alt="matrix banner"/>
 
@@ -9,39 +8,41 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.earnprojects.com">
-    <img src="https://img.shields.io/badge/Portfolio-EarnProjects-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Business-EarnProjects-purple?style=for-the-badge" />
+  </a>
+  <a href="https://sunmeet-sunns-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-SunnsPortfolio-green?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 💼 About Me:
+### 💼 About Me
 
 - 🚀 Co-Founder at [EarnProjects.com](https://www.earnprojects.com)  
 - 🧠 Full Stack Developer – Angular | Node.js | MongoDB  
-- 🧾 Building admin portals, dashboards, subscription systems  
-- 🌍 India based, passionate about SaaS and tech products  
+- 📊 Dashboard & admin panel specialist  
+- 🌍 Based in India – passionate about SaaS, systems, & startups  
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack
 
 - 💻 **Frontend:** Angular, HTML, CSS, Tailwind, Bootstrap  
 - 🔧 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
-- ☁️ **Other Tools:** Razorpay, Cloudinary, Git, Postman, Firebase, Netlify  
+- ☁️ **Tools:** Razorpay, Cloudinary, Firebase, Git, Netlify, Postman  
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 Email: [kaursunmeet624@gmail.com](mailto:kaursunmeet624@gmail.com)  
-- 🔗 Portfolio: [SunnsPortfolio.com](https://sunmeet-sunns-portfolio.netlify.app/)  
-- 💼 Bussiness: [EarnProjects.com](https://www.earnprojects.com)  
-- 💬 Ask me anything, I’m happy to help!  
+- 📧 [kaursunmeet624@gmail.com](mailto:kaursunmeet624@gmail.com)  
+- 🌐 [Portfolio](https://sunmeet-sunns-portfolio.netlify.app/)  
+- 💼 [EarnProjects](https://www.earnprojects.com)  
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SunmeetSunns&show_icons=true&theme=react" />
@@ -67,11 +68,13 @@
 ### 👁 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunmeetSunns&label=Visitors&color=0e75b6&style=flat" alt="SunmeetSunns" />
+  <img src="https://komarev.com/ghpvc/?username=SunmeetSunns&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake (Dark Mode)
 
-![snake gif](https://github.com/SunmeetSunns/SunmeetSunns/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/SunmeetSunns/SunmeetSunns/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Snake dark" />
+</p>
