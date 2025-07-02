@@ -1,5 +1,9 @@
-<!-- Banner GIF -->
-<img src="https://i.gifer.com/SUV4.gif" width="100%" height="50%" alt="matrix banner"/>
+
+<!-- Developer Banner -->
+<p align="center">
+  <img src="https://i.gifer.com/SUV4.gif" style="width: 100%; height: 180px; object-fit: cover;" alt="developer banner"/>
+</p>
+
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Sunmeet Kaur 👋</h1>
 
