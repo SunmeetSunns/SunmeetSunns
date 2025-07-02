@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-<img src="https://i.gifer.com/7VE.gif" width="100%" alt="matrix banner"/>
+<img src="https://i.gifer.com/bJk.gif" width="100%" alt="matrix banner"/>
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Sunmeet Kaur 👋</h1>
 
