@@ -1,7 +1,7 @@
 
 <!-- Developer Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/SUV4.gif" style="width: 100%; height: 180px; object-fit: cover;" alt="developer banner"/>
+  <img src="https://i.gifer.com/SUV4.gif" style="width: 100vh; height: 210px; object-fit: cover;" alt="developer banner"/>
 </p>
 
 
