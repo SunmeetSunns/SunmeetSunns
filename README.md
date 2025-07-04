@@ -14,7 +14,7 @@
   <a href="https://www.earnprojects.com">
     <img src="https://img.shields.io/badge/Business-EarnProjects-purple?style=for-the-badge" />
   </a>
-  <a href="https://sunmeet-sunns-portfolio.netlify.app/">
+  <a href="https://sunmeetsportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-SunnsPortfolio-green?style=for-the-badge" />
   </a>
 </p>
